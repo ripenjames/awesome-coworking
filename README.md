@@ -224,6 +224,7 @@
 - [Urban Co-Lab](http://www.urbanco-lab.com/) - 818 E 12th St
 - [Patchwork Austin](http://www.patchworkaustin.com/) - 4600 Mueller Blvd #1003
 - [TechSpace - Austin](https://www.techspace.com/spaces/austin/cbd/) - 98 San Jacinto Blvd
+- [71Xsuites](https://71xsuites.com/) - 8701 W Highway 71 Suite 200
 
 ### Seattle
 
